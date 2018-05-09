@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerDied.cs">
+    <Files>
+      <File FileName="Assets\Scripts\backgroundScaler.cs" Line="14" Column="58" />
+      <File FileName="Assets\Scripts\backgroundLooper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playerJump.cs" Line="33" Column="1" />
+      <File FileName="Assets\Scripts\obstacles.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playerAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\obstacleSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameplayController.cs" Line="32" Column="23" />
+      <File FileName="Assets\Scripts\PlayerDied.cs" Line="3" Column="34" />
+      <File FileName="Assets\Scripts\MainmenuController.cs" Line="3" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
